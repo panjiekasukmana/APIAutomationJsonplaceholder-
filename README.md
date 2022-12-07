@@ -1,1 +1,1 @@
-This project collaborate with three member on testing the JSONplaceholder API on several endpoint providedusing several HTTP methods including GET, POST, DELETE and PATCH. In this test automation combinesSerenity BDD with rest assured, manual testing using Postman. in writing automation test scripts using java programming language.
+
